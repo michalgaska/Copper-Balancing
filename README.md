@@ -4,6 +4,9 @@ A DelphiScript tool for **Altium Designer** that automatically generates copper 
 
 The script was developed and tested with **Altium Designer 26.9.x** and is intended to simplify the process of adding evenly distributed copper patterns without manually using Via Stitching or converting vias into free pads.
 
+<img width="1471" height="1140" alt="image" src="https://github.com/user-attachments/assets/3ae0ee2e-db95-4edd-ad57-713ad5c164b1" />
+
+
 ## Features
 
 - Generate copper balancing on multiple copper layers at once
