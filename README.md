@@ -94,9 +94,9 @@ Traditional Altium **Internal Plane** layers are intentionally excluded because 
 ## Installation
 
 1. Open Altium Designer.
-2. Open a Script CopperBalancing.PrjScr.
+2. Open a script, CopperBalancing.PrjScr.
 3. Open the target `.PcbDoc`.
-4. Go File -> Run Script...
+4. Go to File -> Run Script...
 5. Run the `Start` procedure.
 6. Select the required layers and pattern parameters.
 7. Click **Generate**.
@@ -112,7 +112,7 @@ Always verify the generated PCB before manufacturing:
 - Review Gerber or ODB++ output
 - Verify board cutouts and keepout areas
 
-It is recommended to test the script on a copy of the PCB before using it on a production design.
+**It is recommended to test the script on a copy of the PCB before using it on a production design.**
 
 ## Compatibility
 
