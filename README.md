@@ -32,6 +32,9 @@ The script was developed and tested with **Altium Designer 26.9.x** and is inten
 - Generated Free Pads are marked internally so they can be safely identified and removed later
 - Compatible with Altium's DRC when `PCB.Rules.DeadCopperNoNet` is configured appropriately
 
+<img width="788" height="632" alt="image" src="https://github.com/user-attachments/assets/70d512c4-b016-488f-bf72-f6a57b231307" />
+
+
 ## Pattern Types
 
 ### Squares
@@ -44,6 +47,9 @@ Aligned rows and columns:
 [ ]   [ ]   [ ]
 ```
 
+<img width="768" height="519" alt="image" src="https://github.com/user-attachments/assets/5fe68cd6-4733-445b-b54e-6f080fb4d224" />
+
+
 ### Diamonds
 
 Rectangular pads rotated by 45 degrees, with every second row shifted by half of the horizontal spacing:
@@ -54,6 +60,9 @@ Rectangular pads rotated by 45 degrees, with every second row shifted by half of
 <>    <>    <>
 ```
 
+<img width="758" height="542" alt="image" src="https://github.com/user-attachments/assets/31153c6d-c7b1-416f-afc5-901bc178f04a" />
+
+
 ### Circles
 
 Circular pads with every second row shifted by half of the horizontal spacing:
@@ -63,6 +72,9 @@ Circular pads with every second row shifted by half of the horizontal spacing:
    (O)   (O)   (O)
 (O)   (O)   (O)
 ```
+
+<img width="766" height="530" alt="image" src="https://github.com/user-attachments/assets/e07aea65-1e1d-492d-9d01-729a95d89648" />
+
 
 ## Generated Objects
 
